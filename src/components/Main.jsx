@@ -67,7 +67,7 @@ const Main = () => {
         
          
                 <div className="column">
-                    <a href="https://docs.google.com/presentation/d/e/2PACX-1vT7MIN7xf8zNN-tX6p_R7B5PagvXpHN2noPe89hqEuZJvJMpd714--D_v7QlYkLpZr78GKfFKsgxulz/pub?start=false&loop=false&delayms=3000&slide=id.p" target="_blank">
+                    <a href="https://docs.google.com/presentation/d/1L8oih5SIjGon86aEJDJH5ZOQOZtTPLaR/edit?rtpof=true" target="_blank">
                         <div className = "button is-large hero is-success">
                             <p className="title is-white">スライド</p>
                         </div>    
