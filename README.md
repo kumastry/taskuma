@@ -1,2 +1,2 @@
 # webpageURL
-https://wordcards.netlify.app/
+https://vegekaru.netlify.app/
